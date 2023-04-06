@@ -19,7 +19,7 @@ pip install time urllib ast twilio
 ## Usage
 1. Clone the repository to your local machine.
 `
-2. Open the `scraper.py file and replace the Twilio API account SID, auth token, receiving phone number, and Twilio phone number with your own.
+2. Open the `scraper.py` file and replace the Twilio API account SID, auth token, receiving phone number, and Twilio phone number with your own.
 
 3. In the values dictionary, replace the selected value with the ID of the course you're interested in. You can find this ID by inspecting the HTML code of the booking form on the tracked website.
 
